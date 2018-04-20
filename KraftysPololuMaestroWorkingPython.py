@@ -1,4 +1,4 @@
-+import maestro
+import maestro
 servo = maestro.Controller()
 loopv = 'yes'
 
